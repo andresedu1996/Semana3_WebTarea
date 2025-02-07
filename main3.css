@@ -1,0 +1,18 @@
+/* Estilos para los cuadros de texto */
+input[type="text"] {
+    width: 150px;
+    margin-bottom: 10px;
+    background-color: greenyellow;
+}
+
+/* Estilo específico para los campos de Nombre y Apellido */
+input[name="Name"] {
+    background-color: #ADFF2F; /* Verde limón */
+}
+
+/* Estilos para el label "Edad" */
+label[for="visitante"] {
+    color: orangered;
+    font-weight: bolder;
+    font-size: large;
+}

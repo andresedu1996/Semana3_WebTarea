@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+h1{
+    color: rgb(254, 254, 254);
+    font-size: 30px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    background-color: dodgerblue;
+}
+p {
+    color: mediumseagreen;
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    border: 2px solid red;
+}
